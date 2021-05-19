@@ -86,3 +86,9 @@ typings/
 
 # DynamoDB Local files
 .dynamodb/
+
+
+.history/
+omni.code-workspace
+
+src/database/db.sqlite3

@@ -1,0 +1,28 @@
+{
+  "name": "omni-hero-back",
+  "version": "1.0.0",
+  "description": "omni-hero-back",
+  "main": "index.js",
+  "scripts": {
+    "start": "nodemon src/index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/cristianovelkan/omni-hero-back.git"
+  },
+  "author": "Cristiano Mendes",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/cristianovelkan/omni-hero-back/issues"
+  },
+  "homepage": "https://github.com/cristianovelkan/omni-hero-back#readme",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "express": "^4.17.1",
+    "knex": "^0.95.6",
+    "sqlite3": "^5.0.2"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.7"
+  }
+}
